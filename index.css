@@ -137,7 +137,13 @@ nav a{
 }
 
 .yosemite {
-    width: 80%;
-    height: 30rem;
-    margin: auto;
+    background-image:url('assets/footer_img.jpg');
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    width: 100%;
+}
+.footer{
+    background-color: #F9E7DC;
 }
